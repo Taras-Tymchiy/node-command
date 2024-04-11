@@ -1,1 +1,8 @@
-{"name": "npm-command", "version": "1.0.0", "main": "index.js"}
+{
+  "name": "npm-command", 
+  "version": "1.0.0", 
+  "main": "index.js",
+  "bin": {
+    "hello": "index.js"
+  }
+}
