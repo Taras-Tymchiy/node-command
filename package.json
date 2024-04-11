@@ -1,8 +1,7 @@
 {
   "name": "npm-command", 
-  "version": "1.0.0", 
-  "main": "index.js",
+  "version": "1.0.0",
   "bin": {
-    "hello": "index.js"
+    "hello": "hello.sh"
   }
 }
